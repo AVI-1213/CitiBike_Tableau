@@ -4,6 +4,9 @@
 ## Overview
 As the new lead analyst for the New York Citi Bike program, I am responsible for overseeing the largest bike-sharing program in the United States. This project aims to generate regular reports for city officials to publicize and improve the Citi Bike program. The project involves aggregating data from the Citi Bike Trip History Logs for 2020, identifying two unexpected phenomena, and creating visualizations to provide insights.
 
+![CITIBIKE Image](https://github.com/AVI-1213/CitiBike_Tableau/blob/main/images/citi-bike-station-bikes.jpg) 
+
+
 ## Objectives
 - Aggregate Citi Bike data for 2020.
 - Identify two unexpected phenomena.
@@ -29,7 +32,13 @@ The data for this project is sourced from the [Citi Bike Data webpage](https://s
 ## Visualizations and Dashboards
 The visualizations and dashboards created for this analysis can be found in the Tableau story linked below. This story combines all relevant visualizations and provides a comprehensive overview of the Citi Bike program for 2020.
 
-- [https://public.tableau.com/app/profile/avinash.kumar5191/viz/citiBike2020/Story1](#)
+[story Link](https://public.tableau.com/app/profile/avinash.kumar5191/viz/citiBike2020/Story1)
+
+![subscriber Analysis](https://github.com/AVI-1213/CitiBike_Tableau/blob/main/images/subscriber.png)
+![Top Stations](https://github.com/AVI-1213/CitiBike_Tableau/blob/main/images/top.png)
+![Peak Hours](https://github.com/AVI-1213/CitiBike_Tableau/blob/main/images/peak_hrs.png)
+![Bottom Stations](https://github.com/AVI-1213/CitiBike_Tableau/blob/main/images/bottom.png)
+
 
 
 ## Conclusion
