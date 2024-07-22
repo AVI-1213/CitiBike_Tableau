@@ -16,6 +16,7 @@ As the new lead analyst for the New York Citi Bike program, I am responsible for
 
 ## Data Source
 The data for this project is sourced from the [Citi Bike Data webpage](https://s3.amazonaws.com/tripdata/index.html). The data for each month of 2020 was downloaded, merged, and analyzed.
+[data extraction Ipynb code](https://github.com/AVI-1213/CitiBike_Tableau/blob/main/data/citidata_extraction.ipynb)
 
 ## Key Questions Answered
 - **Total Trips Recorded in 2020**
